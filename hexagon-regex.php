@@ -44,7 +44,7 @@ class RegExCrossWords {
       "  RETURN  : rotate hexagon",
       "",
       "Inspired by 'a regular crossword'",
-      "See: ".Style::text("http://0.mk/a-regular-crossword-pdf", array(Style::TEXT_CYAN,Style::UNDERSCORE)),
+      "See: ".Style::text("http://goo.gl/QKL2nD", array(Style::TEXT_CYAN,Style::UNDERSCORE)),
     );
   }
 
